@@ -1,0 +1,246 @@
+MONTH,YEAR,FACILITY_TYPE,MONTH_NUM,NUM_NEW_LICENSES_ISSUED
+January,2013,Medical Cultivation Facility,1,6
+January,2013,Medical MIP,1,1
+February,2013,Medical Cultivation Facility,2,7
+February,2013,Medical MIP,2,1
+March,2013,Medical Cultivation Facility,3,6
+April,2013,Medical Cultivation Facility,4,3
+April,2013,Medical MIP,4,1
+May,2013,Medical Cultivation Facility,5,3
+June,2013,Medical Cultivation Facility,6,28
+June,2013,Medical MIP,6,8
+July,2013,Medical MIP,7,1
+August,2013,Medical Center,8,2
+August,2013,Medical Cultivation Facility,8,6
+August,2013,Medical MIP,8,2
+September,2013,Medical Center,9,6
+September,2013,Medical Cultivation Facility,9,81
+September,2013,Medical MIP,9,7
+October,2013,Medical Center,10,1
+October,2013,Medical Cultivation Facility,10,31
+October,2013,Medical MIP,10,10
+November,2013,Medical Cultivation Facility,11,2
+December,2013,Medical Cultivation Facility,12,7
+December,2013,Medical MIP,12,6
+January,2014,Medical Center,1,1
+January,2014,Medical Cultivation Facility,1,10
+January,2014,Medical MIP,1,3
+January,2014,Retail Cultivation Facility,1,50
+January,2014,Retail MIP,1,13
+January,2014,Retail Store,1,35
+January,2014,Retail Test Facility,1,1
+February,2014,Medical Cultivation Facility,2,12
+February,2014,Medical MIP,2,3
+February,2014,Retail Cultivation Facility,2,21
+February,2014,Retail MIP,2,1
+February,2014,Retail Store,2,17
+March,2014,Medical Center,3,1
+March,2014,Medical Cultivation Facility,3,10
+March,2014,Medical MIP,3,3
+March,2014,Retail Cultivation Facility,3,20
+March,2014,Retail MIP,3,6
+March,2014,Retail Store,3,15
+March,2014,Retail Test Facility,3,1
+April,2014,Medical Cultivation Facility,4,6
+April,2014,Medical MIP,4,4
+April,2014,Retail Cultivation Facility,4,17
+April,2014,Retail MIP,4,5
+April,2014,Retail Store,4,10
+April,2014,Retail Test Facility,4,1
+May,2014,Medical Cultivation Facility,5,19
+May,2014,Medical MIP,5,2
+May,2014,Retail Cultivation Facility,5,5
+May,2014,Retail MIP,5,4
+May,2014,Retail Store,5,5
+June,2014,Medical Center,6,4
+June,2014,Medical Cultivation Facility,6,60
+June,2014,Medical MIP,6,8
+June,2014,Retail Cultivation Facility,6,7
+June,2014,Retail MIP,6,2
+June,2014,Retail Store,6,4
+July,2014,Medical Cultivation Facility,7,5
+July,2014,Retail Cultivation Facility,7,5
+July,2014,Retail MIP,7,1
+July,2014,Retail Store,7,3
+August,2014,Medical Center,8,1
+August,2014,Medical Cultivation Facility,8,6
+August,2014,Medical MIP,8,1
+August,2014,Retail Cultivation Facility,8,1
+August,2014,Retail MIP,8,1
+August,2014,Retail Store,8,3
+August,2014,Retail Test Facility,8,1
+September,2014,Medical Center,9,1
+September,2014,Medical Cultivation Facility,9,7
+September,2014,Medical MIP,9,2
+September,2014,Retail Cultivation Facility,9,9
+September,2014,Retail MIP,9,2
+September,2014,Retail Store,9,5
+October,2014,Medical Cultivation Facility,10,10
+October,2014,Medical MIP,10,1
+October,2014,Retail Cultivation Facility,10,3
+October,2014,Retail MIP,10,2
+October,2014,Retail Store,10,3
+October,2014,Retail Test Facility,10,2
+November,2014,Medical Cultivation Facility,11,2
+November,2014,Retail Cultivation Facility,11,6
+November,2014,Retail MIP,11,1
+November,2014,Retail Store,11,3
+November,2014,Retail Test Facility,11,1
+December,2014,Medical Center,12,1
+December,2014,Medical Cultivation Facility,12,6
+December,2014,Medical MIP,12,2
+December,2014,Retail Cultivation Facility,12,9
+December,2014,Retail MIP,12,2
+December,2014,Retail Store,12,3
+January,2015,Medical Cultivation Facility,1,3
+January,2015,Medical MIP,1,1
+January,2015,Retail Cultivation Facility,1,4
+January,2015,Retail Store,1,3
+February,2015,Medical Center,2,1
+February,2015,Medical Cultivation Facility,2,8
+February,2015,Medical MIP,2,1
+February,2015,Retail Cultivation Facility,2,11
+February,2015,Retail MIP,2,1
+February,2015,Retail Store,2,2
+February,2015,Retail Test Facility,2,1
+March,2015,Medical Cultivation Facility,3,2
+March,2015,Medical MIP,3,1
+March,2015,Retail Cultivation Facility,3,6
+March,2015,Retail Store,3,9
+April,2015,Medical Center,4,2
+April,2015,Medical Cultivation Facility,4,6
+April,2015,Retail Cultivation Facility,4,4
+April,2015,Retail Store,4,2
+May,2015,Medical Center,5,1
+May,2015,Medical Cultivation Facility,5,7
+May,2015,Medical MIP,5,1
+May,2015,Retail Cultivation Facility,5,8
+May,2015,Retail MIP,5,1
+May,2015,Retail Store,5,6
+June,2015,Medical Cultivation Facility,6,10
+June,2015,Medical MIP,6,3
+June,2015,Retail Cultivation Facility,6,5
+June,2015,Retail Store,6,4
+July,2015,Medical Cultivation Facility,7,1
+July,2015,Medical MIP,7,2
+July,2015,Retail Cultivation Facility,7,1
+July,2015,Retail Store,7,1
+August,2015,Medical Center,8,5
+August,2015,Medical Cultivation Facility,8,3
+August,2015,Medical MIP,8,1
+August,2015,Retail Cultivation Facility,8,2
+August,2015,Retail Store,8,3
+September,2015,Medical Cultivation Facility,9,9
+September,2015,Medical MIP,9,5
+September,2015,Retail Cultivation Facility,9,2
+September,2015,Retail Store,9,3
+September,2015,Retail Test Facility,9,1
+October,2015,Medical Center,10,2
+October,2015,Medical Cultivation Facility,10,5
+October,2015,Medical MIP,10,2
+October,2015,Retail Cultivation Facility,10,3
+October,2015,Retail MIP,10,1
+October,2015,Retail Store,10,1
+October,2015,Retail Test Facility,10,1
+November,2015,Medical Center,11,1
+November,2015,Medical Cultivation Facility,11,1
+November,2015,Medical MIP,11,2
+November,2015,Retail Store,11,2
+December,2015,Medical Center,12,1
+December,2015,Medical Cultivation Facility,12,2
+December,2015,Retail Cultivation Facility,12,3
+December,2015,Retail Store,12,1
+January,2016,Medical Cultivation Facility,1,6
+January,2016,Retail Cultivation Facility,1,4
+January,2016,Retail Store,1,2
+February,2016,Retail Cultivation Facility,2,2
+February,2016,Retail MIP,2,1
+February,2016,Retail Store,2,2
+March,2016,Medical Center,3,1
+March,2016,Medical Cultivation Facility,3,2
+March,2016,Medical MIP,3,3
+March,2016,Retail Cultivation Facility,3,2
+April,2016,Medical Cultivation Facility,4,8
+April,2016,Medical MIP,4,2
+April,2016,Retail Cultivation Facility,4,6
+April,2016,Retail MIP,4,2
+April,2016,Retail Store,4,2
+May,2016,Medical Center,5,1
+May,2016,Medical Cultivation Facility,5,5
+May,2016,Medical MIP,5,1
+May,2016,Retail MIP,5,1
+June,2016,Medical Center,6,1
+June,2016,Medical Cultivation Facility,6,3
+June,2016,Medical Test Facility,6,1
+June,2016,Retail Cultivation Facility,6,1
+June,2016,Retail Store,6,1
+July,2016,Medical Center,7,1
+July,2016,Medical Cultivation Facility,7,7
+July,2016,Medical MIP,7,1
+July,2016,Medical Test Facility,7,3
+July,2016,Retail MIP,7,1
+August,2016,Medical Cultivation Facility,8,7
+August,2016,Retail Cultivation Facility,8,1
+August,2016,Retail MIP,8,1
+August,2016,Retail Store,8,1
+September,2016,Medical Center,9,1
+September,2016,Medical Cultivation Facility,9,7
+September,2016,Medical MIP,9,2
+September,2016,Retail Cultivation Facility,9,3
+September,2016,Retail MIP,9,5
+September,2016,Retail Store,9,1
+October,2016,Medical Center,10,1
+October,2016,Medical Cultivation Facility,10,2
+October,2016,Medical MIP,10,3
+October,2016,Retail Cultivation Facility,10,2
+October,2016,Retail MIP,10,6
+October,2016,Retail Store,10,1
+November,2016,Medical Center,11,1
+November,2016,Medical Cultivation Facility,11,11
+November,2016,Medical MIP,11,1
+November,2016,Retail Cultivation Facility,11,4
+November,2016,Retail MIP,11,7
+November,2016,Retail Store,11,3
+December,2016,Medical Cultivation Facility,12,1
+December,2016,Medical MIP,12,2
+December,2016,Retail Cultivation Facility,12,2
+December,2016,Retail Store,12,1
+January,2017,Medical Center,1,1
+January,2017,Retail Cultivation Facility,1,2
+January,2017,Retail MIP,1,2
+January,2017,Retail Store,1,1
+February,2017,Medical Cultivation Facility,2,1
+February,2017,Medical MIP,2,1
+February,2017,Retail Cultivation Facility,2,5
+February,2017,Retail Store,2,1
+March,2017,Medical Center,3,1
+March,2017,Medical Cultivation Facility,3,1
+March,2017,Medical MIP,3,1
+March,2017,Retail MIP,3,2
+March,2017,Retail Store,3,1
+April,2017,Medical Cultivation Facility,4,2
+April,2017,Retail Cultivation Facility,4,4
+April,2017,Retail MIP,4,2
+May,2017,Medical Center,5,1
+May,2017,Medical Cultivation Facility,5,2
+May,2017,Medical MIP,5,1
+May,2017,Retail Cultivation Facility,5,3
+May,2017,Retail Store,5,1
+June,2017,Medical MIP,6,2
+June,2017,Retail Cultivation Facility,6,3
+June,2017,Retail MIP,6,1
+June,2017,Retail Store,6,3
+July,2017,Medical Test Facility,7,1
+July,2017,Retail Cultivation Facility,7,1
+July,2017,Retail Store,7,1
+August,2017,Medical MIP,8,2
+August,2017,Medical Test Facility,8,1
+August,2017,Retail Cultivation Facility,8,3
+August,2017,Retail MIP,8,5
+August,2017,Retail Store,8,1
+September,2017,Medical Center,9,1
+September,2017,Medical Cultivation Facility,9,4
+September,2017,Medical MIP,9,1
+September,2017,Retail Cultivation Facility,9,1
+September,2017,Retail MIP,9,2
+September,2017,Retail Store,9,1
